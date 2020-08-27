@@ -1,6 +1,2 @@
 python file 2
-<<<<<<< HEAD
 bo may sua 2
-=======
-bo may sua day
->>>>>>> b5241c2df81edebcd82032c96d2a603d45d0bf4d
